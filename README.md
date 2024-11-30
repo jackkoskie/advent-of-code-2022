@@ -1,3 +1,5 @@
+Archived: Any future solutions will be in https://github.com/jackkoskie/advent-of-code
+
 # Advent of Code 2022
 
 Advent of code is an anual set of programming puzzles to solve. All of the puzzles can be found [here](https://adventofcode.com/ "Advent of Code Website"). These are my answers.
